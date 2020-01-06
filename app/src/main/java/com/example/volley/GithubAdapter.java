@@ -55,7 +55,7 @@ public class GithubAdapter extends RecyclerView.Adapter<GithubAdapter.GithubView
     }
 
     public class GithubViewHolder extends RecyclerView.ViewHolder {
-
+//done
         ImageView imageView;
         TextView textView;
 
